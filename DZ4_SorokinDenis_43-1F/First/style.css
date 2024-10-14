@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.counter-container {
+    text-align: center;
+}
+.counter {
+    font-size: 48px;
+    margin: 20px 0;
+}
+.btn {
+    padding: 50px 80px;
+    font-size: 24px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn-increment {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+
+}
+.btn-decrement {
+    background-color: #f44336;
+    color: white;
+    border: none;
+
+}

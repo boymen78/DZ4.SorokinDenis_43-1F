@@ -1,0 +1,12 @@
+#track-area {
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+    position: relative;
+    background-color: #856b07;
+}
+
+#coords {
+    margin-top: 10px;
+    font-size: 18px;
+}
